@@ -1,19 +1,32 @@
-# 🔐 Gerador de Senhas com Interface Gráfica
 
-Aplicativo simples feito em Python com Tkinter para gerar senhas fortes e seguras.
+# 🔐 Gerador de Senhas Seguras em Python
 
-## Funcionalidades
+Este projeto foi desenvolvido como aplicação prática dos conhecimentos adquiridos na certificação **"Introdução à Cibersegurança" da Cisco**. Ele tem como objetivo gerar senhas seguras de forma simples e personalizável, reforçando boas práticas de segurança digital.
 
-- Escolha o tamanho da senha
-- Opção de incluir letras, números e símbolos
-- Copiar a senha para a área de transferência
+## 🧠 Sobre o Projeto
 
-## Como executar
+Durante o curso, aprendi sobre ameaças cibernéticas, vulnerabilidades e a importância de proteger dados pessoais e corporativos. Este gerador de senhas une esse conhecimento à prática em programação com **Python**, criando uma ferramenta útil para o dia a dia.
 
-```bash
-pip install -r requirements.txt
-python main.py
-```
+## ✨ Funcionalidades
+
+- Geração de senhas seguras com:
+  - Letras (maiúsculas e minúsculas)
+  - Números
+  - Caracteres especiais
+- Escolha do comprimento da senha
+- Combinação personalizada dos tipos de caracteres
+
+## 💻 Pré-requisitos
+
+- Python 3 instalado em sua máquina
+
+## 🚀 Como usar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/gerador-senhas-seguras.git
+   cd gerador-senhas-seguras
+
 ---
 
 ## 🎥 Demonstração
