@@ -18,6 +18,6 @@ python main.py
 
 ## 🎥 Demonstração
 
-![Demonstração do Gerador de Senha](./assets/img/gerador-de-senha.gif)
+![Demonstração do Gerador de Senha](./Gerador-de-Senha-Simples-Estudo--main/assets/img/gerador-de-senha.gif)
 
 
